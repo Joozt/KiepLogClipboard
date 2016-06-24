@@ -14,3 +14,5 @@ This experiment is trying to workaround that in the following way:
 This program was designed to compile a logfile of lots of small e-mails, grouped by date. Like the [KiepEmailExport project](https://github.com/Joozt/KiepEmailExport). Together with a page set that sends an e-mail every time you clear the text input field.
 
 Enter your Gmail credentials in [KiepMail.cs](KiepMail.cs).
+
+See [KiepProjects](https://github.com/Joozt/KiepProjects) for an overview of all Kiep projects.
